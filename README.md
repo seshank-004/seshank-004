@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @seshank-004 working as an SDE
-- 👀 I’m interested in learning and testing key features for a microservice like authentication, event driven archictetures etc
-- 🌱 I’m currently learning everything thats thrown towards me and will update this space after a clear path
-- 💞️ I’m looking to collaborate on back end features as well as latest front end frame works 
+- 👀 I’m interested in learning and testing key features for a microservice like authentication, event-driven architectures etc
+- 🌱 I’m currently learning everything that's thrown towards me and will update this space after a clear path
+- 💞️ I’m looking to collaborate on back-end features as well as the latest front-end frameworks 
 - 📫 How to reach me: no need to reach me now ;)
 
 <!---
